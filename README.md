@@ -1,2 +1,2 @@
 # TinyHooker
-Tiny C hooking library with no dependencies.
+Tiny Win32 C hooking utility with no dependencies.
